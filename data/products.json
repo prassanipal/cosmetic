@@ -1,0 +1,68 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Oil Control Face Wash",
+    "brand": "DermaGlow",
+    "price": 250,
+    "skin_type": ["oily"],
+    "concern": ["acne", "blackheads"],
+    "key_ingredients": ["Salicylic Acid", "Tea Tree Oil"],
+    "comedogenic_score": 0,
+    "risk_level": "Low"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Hydrating Cream",
+    "brand": "SkinPure",
+    "price": 399,
+    "skin_type": ["dry"],
+    "concern": ["dullness"],
+    "key_ingredients": ["Hyaluronic Acid", "Glycerin"],
+    "comedogenic_score": 2,
+    "risk_level": "Low"
+  },
+  {
+    "product_id": 3,
+    "product_name": "Sensitive Skin Cleanser",
+    "brand": "CalmCare",
+    "price": 350,
+    "skin_type": ["sensitive"],
+    "concern": ["redness"],
+    "key_ingredients": ["Aloe Vera", "Chamomile"],
+    "comedogenic_score": 0,
+    "risk_level": "Low"
+  },
+  {
+    "product_id": 4,
+    "product_name": "Anti-Acne Gel",
+    "brand": "AcneFree",
+    "price": 299,
+    "skin_type": ["oily", "combination"],
+    "concern": ["acne"],
+    "key_ingredients": ["Benzoyl Peroxide", "Niacinamide"],
+    "comedogenic_score": 1,
+    "risk_level": "Medium"
+  },
+  {
+    "product_id": 5,
+    "product_name": "Glow Serum",
+    "brand": "RadiantSkin",
+    "price": 499,
+    "skin_type": ["dry", "combination"],
+    "concern": ["dullness"],
+    "key_ingredients": ["Vitamin C", "Hyaluronic Acid"],
+    "comedogenic_score": 1,
+    "risk_level": "Low"
+  },
+  {
+    "product_id": 6,
+    "product_name": "Redness Relief Cream",
+    "brand": "DermaCalm",
+    "price": 420,
+    "skin_type": ["sensitive"],
+    "concern": ["redness"],
+    "key_ingredients": ["Centella Asiatica", "Ceramides"],
+    "comedogenic_score": 1,
+    "risk_level": "Low"
+  }
+]

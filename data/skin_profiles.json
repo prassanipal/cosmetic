@@ -1,0 +1,20 @@
+[
+  {
+    "skin_type": "oily",
+    "recommended_ingredients": ["Salicylic Acid", "Niacinamide"],
+    "avoid_ingredients": ["Heavy Oils"],
+    "common_concerns": ["acne", "blackheads"]
+  },
+  {
+    "skin_type": "dry",
+    "recommended_ingredients": ["Hyaluronic Acid", "Ceramides"],
+    "avoid_ingredients": ["Alcohol"],
+    "common_concerns": ["dullness"]
+  },
+  {
+    "skin_type": "sensitive",
+    "recommended_ingredients": ["Aloe Vera", "Centella Asiatica"],
+    "avoid_ingredients": ["Fragrance"],
+    "common_concerns": ["redness"]
+  }
+]

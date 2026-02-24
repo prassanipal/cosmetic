@@ -1,0 +1,56 @@
+[
+  {
+    "ingredient_name": "Salicylic Acid",
+    "category": "BHA",
+    "risk_level": "Low",
+    "comedogenic_score": 1,
+    "good_for": ["acne", "oily skin"],
+    "avoid_for": ["very dry skin"],
+    "pregnancy_safe": false
+  },
+  {
+    "ingredient_name": "Tea Tree Oil",
+    "category": "Essential Oil",
+    "risk_level": "Medium",
+    "comedogenic_score": 1,
+    "good_for": ["acne"],
+    "avoid_for": ["sensitive skin"],
+    "pregnancy_safe": false
+  },
+  {
+    "ingredient_name": "Hyaluronic Acid",
+    "category": "Humectant",
+    "risk_level": "Low",
+    "comedogenic_score": 0,
+    "good_for": ["dry skin", "dullness"],
+    "avoid_for": [],
+    "pregnancy_safe": true
+  },
+  {
+    "ingredient_name": "Benzoyl Peroxide",
+    "category": "Anti-Acne",
+    "risk_level": "Medium",
+    "comedogenic_score": 0,
+    "good_for": ["acne"],
+    "avoid_for": ["sensitive skin"],
+    "pregnancy_safe": false
+  },
+  {
+    "ingredient_name": "Vitamin C",
+    "category": "Antioxidant",
+    "risk_level": "Low",
+    "comedogenic_score": 0,
+    "good_for": ["dullness", "pigmentation"],
+    "avoid_for": [],
+    "pregnancy_safe": true
+  },
+  {
+    "ingredient_name": "Ceramides",
+    "category": "Barrier Repair",
+    "risk_level": "Low",
+    "comedogenic_score": 0,
+    "good_for": ["dry skin", "sensitive skin"],
+    "avoid_for": [],
+    "pregnancy_safe": true
+  }
+]
